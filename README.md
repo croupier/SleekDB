@@ -90,7 +90,7 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
       <td valign="top">
         <ul>
           <li>like</li>
-          <li>not lik</li>
+          <li>not like</li>
           <li>between</li>
           <li>not between</li>
           <li>group by</li>
